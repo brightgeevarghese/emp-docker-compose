@@ -1,4 +1,5 @@
 **docker-compose up --build -d**
+
 Compose can now delegate builds to bake for better performance.
  To do so, set COMPOSE_BAKE=true.
 [+] Building 6.4s (13/13) FINISHED                                                         docker:desktop-linux
